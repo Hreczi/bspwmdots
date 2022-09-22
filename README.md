@@ -1,1 +1,1 @@
-# bspwmdots
+# my dotfiles
