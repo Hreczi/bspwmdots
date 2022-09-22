@@ -25,4 +25,5 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 setxkbmap pl
+#setxkbmap pl
 
